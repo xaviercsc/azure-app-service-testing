@@ -9,7 +9,7 @@ permissions:
   contents: read
 
 env:
-  AZURE_WEBAPP_NAME: app-xaviercsc-64085
+  AZURE_WEBAPP_NAME: app-xaviercsc-96535
 
 jobs:
   build-and-deploy:
